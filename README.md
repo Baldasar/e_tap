@@ -1,1 +1,1 @@
-
+Projeto criado como parte da disciplina de Projeto Integrador I. O objetivo deste aplicativo é facilitar a realização de chamadas por meio de tags NFC, simplificando o processo de registro de presença.
